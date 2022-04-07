@@ -8,5 +8,9 @@ are designed to target what functionality it needs to complete the task.
 
 ### How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
+Communication is really important in a scrum-agile-approach. It is essential to communicate with transparency among the scrum team. If anything I would
+incorporate more transparent communiation in the future softeware development. I would seek more assistance when stuck and have more clear and transparent communication. Imposter syndrom is real when you are starting out as a software engineer and one of the hardest tackle in sprint meeting is transparent communication. 
 
 ### What does it mean to be a good team member in software development?
+
+To be a good team member, you need to show positiveness to fellow team members. Trust your team members and never put your members down. Any sort of judgement is not needed in a agile enviroment as it is fast paced and can easily become a stressful enviroment. Learn to help eachother and learn from one another. One should act as a team member and not someone above one another. It is absolutly important to have coherent team for successful SDLC.  
